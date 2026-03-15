@@ -1,6 +1,6 @@
 # 💫 About Me:
 hey there,I am akansha parley<br>
-B.Tech CSE (AIDA) student passionate about building scalable full-stack applications and exploring the power of data.
+B.Tech CSE (AIDS) student passionate about building scalable full-stack applications and exploring the power of data.
 Full-stack developer today, aspiring data analyst tomorrow — turning code and data into impactful solutions.
 Skills:
 💻 C++ | Java | Python
