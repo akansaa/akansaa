@@ -1,7 +1,7 @@
 # 💫 About Me:
 hey there,I am akansha parley<br>
 B.Tech CSE (AIDS) student passionate about building scalable full-stack applications and exploring the power of data.
-Full-stack developer today, aspiring data analyst tomorrow — turning code and data into impactful solutions.
+Full-stack developer/aspiring data analyst today,looking for more and currently also working on AIDS, willing to explore and building skillset in aids also — turning code and data into impactful solutions.
 Skills:
 💻 C++ | Java | Python
 🌐 HTML | CSS | JavaScript | React | Node.js
